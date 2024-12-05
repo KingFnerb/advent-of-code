@@ -1,4 +1,3 @@
-
 data=open('day1_input.txt', 'r')
 
 def get_distance(l,r):
